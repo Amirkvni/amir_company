@@ -13,7 +13,6 @@ function amirRet() {
 }
 amirRet();
 
-
 //amir branch 2:
 // پس توضیحات عزیزم؟؟؟؟
 //۱۱۲۲۸
@@ -25,5 +24,5 @@ amirRet();
 let login = () => {
   return true;
 };
+let myArr = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
 
-let myArr=[1,2,3];
